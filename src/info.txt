@@ -1,0 +1,9 @@
+@index.js 
+dispatches action to store
+
+@store
+calls reducer and passes current state and action
+
+@reducer
+returns updated state
+notifies the subscribers
